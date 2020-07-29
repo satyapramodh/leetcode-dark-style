@@ -1496,5 +1496,8 @@ pre {
 # repeated - fix me
 .submission-result-base .panel, .submission-result-base .panel .panel-heading, .submission-result-base .panel .panel-body pre{
   background-color: #222;
+} 
+.block-markdown pre{
+    background: #222;
 }
 }
