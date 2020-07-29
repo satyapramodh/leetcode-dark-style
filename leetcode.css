@@ -1433,4 +1433,68 @@ pre {
 .notifications-container .notification-list-item {
   border-bottom-color: #333;
 }
+  
+/**** /my custom/ ****/
+.content-base .article-base .block-markdown, .content-base .article-base .article-inner {
+    background: #333333;
+}
+.block-markdown blockquote{
+    background-color: #333333;
+}
+.lc-comment.comment-base .comment-panel {   
+    background: #333;
+}
+.lc-comment .comment-body .read-more .trans {    
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0)), to(#333));
+    background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0), #333);
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), #333);
+}
+.write-comment-base .create-comment .comment-panel.reply-panel {
+    background: #333 !important;
+}
+.pagination>li>a, .pagination>.disabled>a{
+    background-color: #333;
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #333;
+}
+.panel{
+    background-color: #282828;
+}
+.panel-default>.panel-heading {
+    color: #ddd;
+    background-color: #282829;
+}
+.cal-heatmap-container .graph-rect {
+    fill: #444;
+}
+.cal-heatmap-container .q1 {
+    background-color: #dae289;
+    fill: #dae289;
+}
+.cal-heatmap-container .q2 {
+    background-color: #cedb9c;
+    fill: #9cc069;
+}
+.cal-heatmap-container .q3 {
+    background-color: #b5cf6b;
+    fill: #669d45;
+}
+.cal-heatmap-container .q4 {
+    background-color: #637939;
+    fill: #637939;
+}
+.cal-heatmap-container .q5 {
+    background-color: #3b6427;
+    fill: #3b6427;
+}
+# repeated - fix me
+.btn-default:hover {
+  color: #aaa;
+  background-color: #333;
+}
+# repeated - fix me
+.submission-result-base .panel, .submission-result-base .panel .panel-heading, .submission-result-base .panel .panel-body pre{
+  background-color: #222;
+}
 }
