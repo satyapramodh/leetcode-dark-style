@@ -1455,7 +1455,7 @@ pre {
 .pagination>li>a, .pagination>.disabled>a{
     background-color: #333;
 }
-.table-striped>tbody>tr:nth-of-type(odd) {
+.table-striped>tbody>tr:nth-of-type(odd), .table.table__XKyc tbody > tr:nth-of-type(odd) {
     background-color: #333;
 }
 .panel{
