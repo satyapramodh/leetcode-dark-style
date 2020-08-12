@@ -1500,4 +1500,7 @@ pre {
 .block-markdown pre{
     background: #222;
 }
+.hljs-comment{
+    color: #079c07;
+}
 }
