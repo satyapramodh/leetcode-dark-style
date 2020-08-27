@@ -1503,4 +1503,20 @@ pre {
 .hljs-comment{
     color: #079c07;
 }
+.hljs{
+    background: #222;
+    color: #ccc;
+}
+.modal-content{
+    background: #222;
+}
+.title__1kvt{
+    color: #aaa;
+}
+.ant-dropdown-menu{
+    background-color: #222;
+}
+.ant-dropdown-menu-item:hover, .ant-dropdown-menu-item-active, .ant-dropdown-menu-item:hover a, .user-menu-link__1jrj:hover{
+    background-color: #333;
+}
 }
