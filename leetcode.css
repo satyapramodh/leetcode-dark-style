@@ -1519,4 +1519,7 @@ pre {
 .ant-dropdown-menu-item:hover, .ant-dropdown-menu-item-active, .ant-dropdown-menu-item:hover a, .user-menu-link__1jrj:hover{
     background-color: #333;
 }
+.input__2W4f, .input__2W4f:focus, .input__2W4f:hover:not(.error__3Vyn):not(.disabled__1bNY){
+    color: #ccc;
+}
 }
