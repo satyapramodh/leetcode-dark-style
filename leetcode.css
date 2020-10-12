@@ -1522,4 +1522,7 @@ pre {
 .input__2W4f, .input__2W4f:focus, .input__2W4f:hover:not(.error__3Vyn):not(.disabled__1bNY){
     color: #ccc;
 }
+.navbar__1Bue{
+    background-color: #111;
+}
 }
