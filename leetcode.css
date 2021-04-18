@@ -1528,4 +1528,37 @@ pre {
 .css-i03q4h-ValueContainer, .css-nok86h-TabViewHeader{
     background: #222;
 }
+.topic-item-wrap__2FSZ .topic-item__1Asc, .css-zywons-Container-RoundedTagFilter, .pagination-wrapper__2Pmg, .css-gme9cr-Wrapper{
+    background-color: #333;
+}
+.css-g96614, .tag__2FfF, .css-2mbh4k-TagButton{
+    background-color: #ccc;
+}
+
+.css-1ytv31z-Detail{
+    color: #222;
+}
+
+.css-l500pw-Header, .css-1dsbtzt{
+    color: #ccc;
+}
+
+.css-1jdyqw4, .ant-card, .ant-card-head{
+    background: #222;
+    color: #ccc;
+}
+
+.contest-list-base, .contest-list-base .heading, .ranking-card-base .ranking-list-base, .root__3iAr, .contest-table-base table.contest-table thead th, .content-wrapper__2N7X{
+    background: #333;
+    color: #fff;
+}
+
+.nav-items__VcEf a{
+    color: #ccc;
+    text-decoration: underline;
+}
+
+.nav-dropdown__3ybW .ant-dropdown-menu-item, .ant-dropdown-menu-item:hover a, .ant-dropdown-menu-item-active a{
+    color: #ccc;
+}
 }
