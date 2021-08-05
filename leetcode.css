@@ -1561,4 +1561,9 @@ pre {
 .nav-dropdown__3ybW .ant-dropdown-menu-item, .ant-dropdown-menu-item:hover a, .ant-dropdown-menu-item-active a{
     color: #ccc;
 }
+
+.css-s9svfs-TabContent {
+    color: #ccc;
+    background: #222;
+}
 }
