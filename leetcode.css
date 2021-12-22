@@ -1570,4 +1570,20 @@ pre {
 .css-5cpcmp-StyledSwitch{
     background: #333;
 }
+.header__2ZIe{
+        background-color: #111;
+}
+.header__2ZIe .ant-tabs.ant-tabs-card > .ant-tabs-bar {
+    background-color: #111;
+}
+.ant-tabs.ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active {
+    background: #222;
+    color: #eeeeee;
+}
+.topic-container__2fe0 {
+    background: #333;
+}
+.name__2jm2 {
+    color: #ddd;
+}
 }
