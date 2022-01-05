@@ -1586,4 +1586,10 @@ pre {
 .name__2jm2 {
     color: #ddd;
 }
+.ace-tm .ace_storage, .ace-tm .ace_keyword, .ace-tm .ace_constant.ace_numeric {
+    color: #5291f8;
+}
+.ace-tm .ace_support.ace_function {
+    color: rgb(109, 119, 240);
+}
 }
